@@ -1,0 +1,54 @@
+/* Color Pallete */
+/* https://colorhunt.co/palette/147179 #004a2f, #002f35, #ff6337, #ffa323 */
+
+/* https://colorhunt.co/palette/163856 #004445, #2c7873, #6fb98f, #ffd800 */
+
+/* https://colorhunt.co/palette/7187   #217756, #63b75d, #b0d553, #fced25 */
+
+/* Custom Colors                                         #fff,    #ffffe6 */
+
+body {
+  background-color: #2c7873;
+  height: 1080px;
+}
+
+.card-header h3 {
+  font-size: 4vw;
+  font-weight: bold;
+}
+
+/* Bootstrap Edits */
+.card-deck {
+  height: 100%;
+}
+.card-header {
+  background-color: #6fb98f;
+  outline: 1px solid #6fb98f;
+}
+.card-body {
+  background-color: #ffffe6;
+}
+.jumbotron {
+  background-color: #004445;
+  padding: 3rem 2rem;
+}
+/* Class Selectors */
+.admin-message {
+  color: #fff;
+  font-size: 2.25vw;
+}
+
+.display-container {
+  height: 60%;
+}
+.next-number {
+  font-size: 30vw;
+  font-weight: bold;
+  line-height: 1;
+  text-decoration: underline;
+
+}
+.recently-completed {
+  font-size: 4.5vw;
+  font-weight: bold;
+}
